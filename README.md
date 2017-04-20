@@ -10,4 +10,5 @@ An implementation of a python command-line 'PvC' tic-tac-toe game, wherein the c
 
 Future Steps:
 
-(1) Improve command-line UI.
+(1) Improve command-line UI.  
+(2) Modularize the code base to allow for greater code re-use.
